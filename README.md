@@ -20,4 +20,4 @@ docker build -t nytimes/nginx-vod-module .
 Docker Hub
 ----------
 
-The image is available on Docker Hub: https://hub.docker.com/r/nytimes/nginx-vod-module/.
+The image is available on Docker Hub: https://hub.docker.com/r/thedrhax/nginx-vod-module/.
